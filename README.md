@@ -6,7 +6,7 @@ I was taught in *Visual Basic .NET* with Visual Studio in my A-levels, from whic
 
 During my time at university, I was both of one of the first undergraduate Teaching Assistants in our department and Education Officer for the Computer Science Society and both mentored students one-to-one in labs, giving guidance where needed, and presented small workshops and sessions.
 
-If you want more info, find me on [LinkedIn](https://www.linkedin.com/in/luca-davies/).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/luca-davies/).
 
 ---
 
