@@ -4,13 +4,15 @@ Hi! I'm Luca, a recent graduate from Lancaster University's MSci Computer Scienc
 
 During my time at university, I was both of one of the first undergraduate Teaching Assistants in our department and Education Officer for the Computer Science Society. In these roles I both mentored students one-to-one in labs, giving guidance where needed, and presented small workshops and sessions.
 
-I currently work near Cambridge as a Graduate Software Engineer, working primarly with _C# .NET_ in development and maintenance of a mobile app for Android/iOS for management of performance vehicle driving telemtry and audio/visual recordings.
+After graduationg from Lancaster, I began work near Cambridge as a Graduate Software Engineer, working primarly with _C# .NET_ in development and maintenance of an Android/iOS mobile app for management of performance vehicle driving telemtry and audio/visual recordings. After struggling to settle in Cambridge, I decided to take my chance to attempt to turn my hobby into a career as a theatre and events technician.
+
+Though I had about 8/9 years of experience in school and amateur theatre under all sorts of backstage guises at this point, I began professionally as a venue techinician at Edinburgh Fringe, before going freelance for a while, then eventually taking a fulltime role as Lighting & Sound Technician at the Everyman Theatre, Cheltenham, which is wher you can find me today.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/luca-davies/).
 
 ---
 
-Here you will find a selection of my university and earlier work, together with a few other projects that I have developed in my free time.
+Here you will find a selection of my university and earlier work, together with a few other projects that I have developed in my free time, _and_ a portfolio of my theatre and events work under [this repo](https://github.com/lucadavies/Technician).
 
 Thanks for stopping by :)
 
