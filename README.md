@@ -1,6 +1,6 @@
 # About me
 
-Hi! I'm Luca, a software engineer and theatre technician. In 2021 in graduated from Lancaster University's MSci Computer Science degree scheme, having earnt myself a First Class Honours degree in Computer Science (with Industrial Experience). I was taught in *Visual Basic .NET* with Visual Studio in my A-levels, from which I was easily able to pick up _C#_ before taking my study further in University. Lancaster re-introduced programming with _C_ before delving much deeper with _Java_. _Python_ featured a few times in various modules, as did _Assembly_ language (MIPS and PIC).
+Hi! I'm Luca, a software engineer and theatre technician. In 2021 in graduated from Lancaster University's MSci Computer Science degree scheme, having earned myself a First Class Honours degree in Computer Science (with Industrial Experience). I was taught in *Visual Basic .NET* with Visual Studio in my A-levels, from which I was easily able to pick up _C#_ before taking my study further in University. Lancaster re-introduced programming with _C_ before delving much deeper with _Java_. _Python_ featured a few times in various modules, as did _Assembly_ language (MIPS and PIC).
 
 During my time at university, I was both of one of the first undergraduate Teaching Assistants in our department and Education Officer for the Computer Science Society. In these roles I both mentored students one-to-one in labs, giving guidance where needed, and presented small workshops and sessions.
 
